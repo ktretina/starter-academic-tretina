@@ -5,3 +5,7 @@
 # If you are not using those tools, this file may be deleted.
 #
 # The actual configuration files are stored in the `config/_default/` folder.
+
+backend:
+  name: github
+  repo: ktretina/starter-academic-tretina # Path to your GitHub repository
