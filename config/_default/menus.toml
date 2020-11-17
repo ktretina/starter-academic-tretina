@@ -27,17 +27,6 @@
   name = "Projects"
   url = "#projects"
   weight = 14
-  
-#[[main]]
-#  name = "Gallery"
-#  url = "#gallery"
-#  weight = 15
-  
-
-[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
 
 [[main]]
   name = "Publications"
@@ -48,11 +37,6 @@
   name = "Posts"
   url = "#posts"
   weight = 50
-  
-#[[main]]
-#  name = "Courses"
-#  url = "courses/"
-#  weight = 50
 
 [[main]]
   name = "Contact"
