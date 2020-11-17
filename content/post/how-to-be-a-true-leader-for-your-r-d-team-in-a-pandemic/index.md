@@ -1,0 +1,119 @@
+---
+title: How to be a true leader for your R&D team in a pandemic
+date: 2020-11-17T19:24:31.864Z
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+---
+Whether you work in industry or academic, if you run a research and development team, you’re probably exhausted from all of the [regulatory and procedural requirements](https://www.nature.com/articles/d41586-020-01587-z)[\[1]](https://paperpile.com/c/Bju5pl/3nnk) that you need to consider to get your team back into the lab. Staggered shifts, re-configured space, physical distancing, gloves and masks at all times, monitoring for illness, having clear triggers and plans are all [important instructions to follow](https://www.sciencemag.org/news/2020/05/it-will-not-be-easy-labs-begin-reopen-enormous-challenges-remain)[\[2]](https://paperpile.com/c/Bju5pl/jPdj). However, leadership should be about more than just meeting requirements and hitting deadlines, it should be about building trust and purpose to motivate your team. It requires clear and inspiring communication in a time of chronic uncertainty. Your team now [trusts you more than](https://www.edelman.com/research/edelman-trust-covid-19-demonstrates-essential-role-of-private-sector)[\[3]](https://paperpile.com/c/Bju5pl/b6Ro) they trust the media, the World Health Organization or the Center for Disease Control and Prevention, so it’s time for you to take action. Here are a few steps to help you do just that.
+
+### **Provide public, private, and anonymized channels to learn about your team’s psyche.**
+
+The pandemic has reached a [new phase](https://www.who.int/influenza/resources/documents/pandemic_phase_descriptions_and_actions.pdf)[\[4]](https://paperpile.com/c/Bju5pl/lUYW). Many countries are now moving from *if* we should return to our workplaces to *how* to return, and the research labs are now doing the same (many never stopped working). Leaders now have to deal with pressure from [lost revenue](https://www.cnbc.com/2020/03/23/how-small-businesses-across-us-are-coping-with-covid-19-pandemic.html)[\[5]](https://paperpile.com/c/Bju5pl/o4QQ), employees increasingly [struggling](https://www.nature.com/articles/nj7677-549a)[\[6]](https://paperpile.com/c/Bju5pl/Qcza) with their [mental health](https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm)[\[7]](https://paperpile.com/c/Bju5pl/Uxw9), responses to perhaps the largest movement of [national protests](https://www.nytimes.com/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html)[\[8]](https://paperpile.com/c/Bju5pl/tVRS) in U.S. history, and [little federal guidance](https://www.nytimes.com/2020/06/03/us/cdc-coronavirus.html)[\[9]](https://paperpile.com/c/Bju5pl/9wRt) about how to get back to the lab safely. Now that many organizations are moving back into their workplaces, leaders have an unprecedented opportunity to show their value by fighting the taboo behind talking about [mental health](https://www.apa.org/news/press/releases/2019/05/mental-health-survey)[\[10]](https://paperpile.com/c/Bju5pl/1O2t), [underemployment](https://www.nature.com/articles/136748c0)[\[11]](https://paperpile.com/c/Bju5pl/PPhJ), and the [grief](https://blogs.scientificamerican.com/observations/grief-in-the-time-of-covid-19/)[\[12]](https://paperpile.com/c/Bju5pl/ZS3c) that many employees are feeling from the loss of their friends, relatives, and colleagues to COVID-19.
+
+> *[Fewer than half](https://www.pwc.com/us/en/library/covid-19/employees-anxious-about-returning-to-workplace.html)* *[\[13]](https://paperpile.com/c/Bju5pl/ecgo) of employees in a recent poll said that work safety measures were enough to make them feel comfortable returning to work.*
+
+Before returning to work, you need to [assess your team](https://www.sciencemag.org/careers/2020/03/amid-coronavirus-shutdowns-some-grad-students-feel-pressured-report-their-labs)[\[14]](https://paperpile.com/c/Bju5pl/2Hlg) members individually. Are they struggling to barely stay productive? Are they having to change their skill sets and approach to work drastically? Or are they actually benefiting from their current situation, being able to work from home? While some teams are using apps to quantify team [moods](https://www.fastcompany.com/3040755/smile-dammit-some-companies-are-using-an-app-to-track-your-moods-at-wor)[\[15]](https://paperpile.com/c/Bju5pl/F7B8), [research](https://pubmed.ncbi.nlm.nih.gov/21171788/)[\[16]](https://paperpile.com/c/Bju5pl/WDm9) on the interaction between mood and self-disclosure suggests that providing an anonymous mechanism of feedback could help team members in certain moods disclose more. Of course, there’s also an [app](https://www.vevox.com/employee-discussion-and-feedback-app)[\[17]](https://paperpile.com/c/Bju5pl/HuY9) for that. Low tech solutions could be a physical comment box or a third party to compile the comments and summarize them. There is now some great [research](https://incognea.to/blog/2020/02/12/the-research-behind-anonymous-employee-feedback/)[\[18]](https://paperpile.com/c/Bju5pl/32oP) and expert [opinion](https://hbr.org/2013/06/confidential-surveys-undermine)[\[19]](https://paperpile.com/c/Bju5pl/s8Rr) on how anonymous feedback can improve your leadership.
+
+> *In fact, the very act of asking your team how they are feeling shows them that their wellbeing is your priority.*
+
+Start by telling them explicitly why you are asking for their input. Properly asking for feedback from your team and internalizing it is one of the most difficult tasks for leaders because it involves introspection, analysis, and humility. For most companies, the ways that you were successful before the pandemic no longer apply and the pandemic has put you in the position of needing more expertise than your job has ever required — doctor, epidemiologist, lawyer, macroeconomist, molecular biologist, psychologist. Most people can’t do all of these things on their own, but in many small businesses right now, this is what is needed. In his book *Blink: the power of thinking without thinking*, Malcolm Gladwell says “We have, as human beings, a storytelling problem. We’re a bit too quick to come up with explanations for things we don’t really have an explanation for.” It’s OK to admit to your team what you know and what you don’t know, then ask the experts what to do next. [Leading a lab is difficult](https://www.sciencemag.org/careers/2014/02/learning-lead-lab)[\[20]](https://paperpile.com/c/Bju5pl/5LvD), and your team will likely understand that.
+
+### **Respect your team’s feedback by addressing their concerns directly**
+
+The most fundamental feature of leadership is the ability to make [positive change](https://www.hks.harvard.edu/publications/against-desperate-peril-high-performance-emergency-preparation-and-response)[\[21]](https://paperpile.com/c/Bju5pl/7ade) in people’s lives. Provide complete transparency regarding the plan to return to work, who made the plan, and connect their concerns to specific action items in that plan. Don’t forget to talk about certainty in each step — which steps are you sure will happen and what only has a chance of happening? Leaders often run the risk of providing a moral hazard in this space, meaning that you may have a lack of incentive to guard against the risk of an outbreak if you are not affected by it yourself. Without revealing your plan to deal with this risk, you could lose your team’s trust and they could even [refuse to return to work](https://www.qsrmagazine.com/outside-insights/when-employees-refuse-return-work-due-covid-19)[\[22]](https://paperpile.com/c/Bju5pl/EyQh) or have other [major issues](https://www.sciencemag.org/news/2020/05/it-will-not-be-easy-labs-begin-reopen-enormous-challenges-remain)[\[2]](https://paperpile.com/c/Bju5pl/jPdj) when they arrive.
+
+The pandemic has been a “[landscape-scale event](https://www.hks.harvard.edu/publications/against-desperate-peril-high-performance-emergency-preparation-and-response)”[\[23]](https://paperpile.com/c/Bju5pl/8Gpe), like a flood consuming a coastal town. The water of uncertainty was rising and not everyone had a boat. Some lost their workplace, others lost their health, others lost their lives, some of the boats had their anchors down and the boats sank, and now that the water level is lowering in some places many boats don’t have a safe place to land. Only a [comprehensive plan](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/beyond-coronavirus-the-path-to-the-next-normal) [\[24]](https://paperpile.com/c/Bju5pl/Toxc) for your company to return to work will give your employees what they need to be successful.
+
+![](https://cdn-images-1.medium.com/max/1600/0*zlwDTMfU_0EBNr8S)
+
+At some point, each team member is wondering — what amount of risk are you willing to accept, and how are you making the decisions about how to reduce that risk? By answering these questions explicitly, you proactively fight against group panic, which can have objective [psychological and business costs](https://guilfordjournals.com/doi/10.1521/psyc.2005.68.2.95?mobileUi=0)[\[25]](https://paperpile.com/c/Bju5pl/O8s1) for your lab. There is a paradox here, where many leaders tend to busy themselves with urgent work and organization issues, fueled by their own fears about their situation and motivated by fear and the will to control their [environment](https://link.springer.com/chapter/10.1007/978-1-4613-9564-5_10)[\[26]](https://paperpile.com/c/Bju5pl/Rv8T).
+
+> *Resist the temptation to stay busy with ‘important tasks’ and realize that your real job as a leader is to improve the lives of the people on your team.*
+
+Leaders should be directly involved in conversations about emotions such as [grief, desperation, gratitude, concern and celebration](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6380889/)[\[27]](https://paperpile.com/c/Bju5pl/DAcI). While not an explicit part of the job, you can’t do your job well without normalizing these emotions. Talk about the [resiliency](https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1062&context=psychfacpub)[\[28]](https://paperpile.com/c/Bju5pl/yDU3) of your group with specific examples. Describe the achievements and reinventions that your lab has survived. Inspire them with how their current work still fits into the vision for the research program.
+
+> **Use familiar symbols and practices to message to your employees during the transition**
+
+Humans are sensual beings, and our physical sensations can change our feelings about our environment. Unfamiliar sensations can make us uneasy, but more importantly, familiar ones [can calm us](https://www.cell.com/current-biology/pdf/S0960-9822%2815%2900652-1.pdf)[\[29]](https://paperpile.com/c/Bju5pl/elWk). This is where most leaders fail, because it requires more awareness and creativity than most people have. You may not be able to give people the experience of how your workplace was, but by intentionally creating new rituals and new practices to replace them you [can settle their nerves](https://journals.sagepub.com/doi/10.1177/1088868317734944)[\[30]](https://paperpile.com/c/Bju5pl/BZsO). Create a “welcome back” banner and hand out kits. Create a new onboarding process even for long-time team members. Create a calendar for the whole team for the new few months, showing them when you will be in touch with them. Tell them where to turn with their production and mental health related questions. This is your moment to define your team’s [new sense of purpose](https://dash.harvard.edu/bitstream/handle/1/30903237/17-023.pdf?sequence=1)[\[31]](https://paperpile.com/c/Bju5pl/IqV4). Show your lab the map to success. Share your fresh perspectives on their company story. Monitor how effective your communication has been. Many people are feeling a sense of upheaval in their [new work-from-home world](https://www.nytimes.com/interactive/2020/06/09/magazine/remote-work-covid.html)[\[32]](https://paperpile.com/c/Bju5pl/ztuZ) and they need your re-imagination of their work plan to tell them that it’s going to be OK.
+
+> *Working from home might not end, which is a chance for leaders to think about their jobs from a fresh perspective without the crutches of water coolers, lunch rooms and happy hours.*
+
+Here is your opportunity: stop managing your team by [walking around](https://tompeters.com/2013/02/the-heart-of-mbwa/)[\[33]](https://paperpile.com/c/Bju5pl/pGpY) and start leading by inspiration. You now need to create informal interactions to build social cohesion, and the way that you behave online will be [scrutinized](https://hbr.org/2018/04/how-to-work-for-a-boss-who-lacks-self-awareness)[\[34]](https://paperpile.com/c/Bju5pl/gONE) by your team even more than before, because often they won’t have your tone of voice or body language to help them interpret your messages. Fortunately, there are many resources available for leaders to learn the path forward from [experts](https://www.mckinsey.com/featured-insights/coronavirus-leading-through-the-crisis/charting-the-path-to-the-next-normal)[\[35]](https://paperpile.com/c/Bju5pl/dEnV).
+
+### **References**
+
+1. [Subbaraman N. Return to the lab: scientists face shiftwork, masks and distancing as coronavirus lockdowns ease. Nature. 2020;582: 15–16.](http://paperpile.com/b/Bju5pl/3nnk)
+
+2. [“It will not be easy.” As labs begin to reopen, enormous challenges remain. In: Science | AAAS \[Internet]. 6 May 2020 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/jPdj) <https://www.sciencemag.org/news/2020/05/it-will-not-be-easy-labs-begin-reopen-enormous-challenges-remain>
+
+3. [Edelman Trust Barometer Special Report on COVID-19 Demonstrates Essential Role of the Private Sector. In: Edelman \[Internet]. \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/b6Ro) <https://www.edelman.com/research/edelman-trust-covid-19-demonstrates-essential-role-of-private-sector>
+
+4. [Coronavirus Disease (COVID-19) — events as they happen. \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/lUYW) <https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen>
+
+5. [Huddleston T. How small business owners are coping with COVID-19 pandemic: “It was my civic duty to be a part of the solution.” In: CNBC \[Internet]. CNBC; 23 Mar 2020 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/o4QQ) <https://www.cnbc.com/2020/03/23/how-small-businesses-across-us-are-coping-with-covid-19-pandemic.html>
+
+6. [Woolston C. Graduate survey: A love–hurt relationship. Nature. 2017;550: 549–552.](http://paperpile.com/b/Bju5pl/Qcza)
+
+7. [Mental Health — Household Pulse Survey — COVID-19. 7 Jul 2020 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/Uxw9) <https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm>
+
+8. [Buchanan L, Bui Q, Patel JK. Black Lives Matter May Be the Largest Movement in U.S. History. 3 Jul 2020 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/tVRS) <https://www.nytimes.com/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html>
+
+9. [Lipton E, Goodnough A, Shear MD, Twohey M, Mandavilli A, Fink S, et al. The C.D.C. Waited “Its Entire Existence for This Moment.” What Went Wrong? 3 Jun 2020 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/9wRt) <https://www.nytimes.com/2020/06/03/us/cdc-coronavirus.html>
+
+10. [Bethune S. Survey: Americans Becoming More Open About Mental Health. In: American Psychological Association \[Internet]. 1 May 2019 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/1O2t) <https://www.apa.org/news/press/releases/2019/05/mental-health-survey>
+
+11. [Science and Unemployment. Nature. 1935;136: 748–749.](http://paperpile.com/b/Bju5pl/PPhJ)
+
+12. [Ungerleider S, Smith CB. Grief in the Time of COVID-19. In: Scientific American Blog Network \[Internet]. \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/ZS3c) <https://blogs.scientificamerican.com/observations/grief-in-the-time-of-covid-19/>
+
+13. [PricewaterhouseCoopers. PwC Workforce Pulse Survey: PwC. \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/ecgo) <https://www.pwc.com/us/en/library/covid-19/employees-anxious-about-returning-to-workplace.html>
+
+14. [Amid coronavirus shutdowns, some grad students feel pressure to report to their labs. In: Science | AAAS \[Internet]. 20 Mar 2020 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/2Hlg) <https://www.sciencemag.org/careers/2020/03/amid-coronavirus-shutdowns-some-grad-students-feel-pressured-report-their-labs>
+
+15. [Schulte E. SMILE, Dammit: Some Companies Are Using An App To Track Your Moods At Work. In: Fast Company \[Internet]. Fast Company; 15 Jan 2015 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/F7B8) <https://www.fastcompany.com/3040755/smile-dammit-some-companies-are-using-an-app-to-track-your-moods-at-wor>
+
+16. [Forgas JP. Affective influences on self-disclosure: mood effects on the intimacy and reciprocity of disclosing personal information. J Pers Soc Psychol. 2011;100. doi:](http://paperpile.com/b/Bju5pl/WDm9)[10.1037/a0021129](http://dx.doi.org/10.1037/a0021129)
+
+17. [Employee Discussion and Anonymous Feedback App | Vevox. \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/HuY9) <https://www.vevox.com/employee-discussion-and-feedback-app>
+
+18. [The Research Behind Anonymous Employee Feedback · Incogneato Anonymous Suggestion Box. In: Incogneato Anonymous Suggestion Box \[Internet]. 12 Feb 2020 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/32oP) <https://incognea.to/blog/2020/02/12/the-research-behind-anonymous-employee-feedback/>
+
+19. [What Anonymous Feedback Will (and Won’t) Tell You. In: Harvard Business Review \[Internet]. 6 Jun 2013 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/s8Rr) <https://hbr.org/2013/06/confidential-surveys-undermine>
+
+20. [Learning to Lead a Lab. In: Science | AAAS \[Internet]. 20 Nov 2014 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/5LvD) <https://www.sciencemag.org/careers/2014/02/learning-lead-lab>
+
+21. [“Against Desperate Peril: High Performance in Emergency Preparation and Response. \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/7ade) <https://www.hks.harvard.edu/publications/against-desperate-peril-high-performance-emergency-preparation-and-response>
+
+22. [When Employees Refuse to Return to Work Due to COVID-19. In: QSR magazine \[Internet]. \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/EyQh) <https://www.qsrmagazine.com/outside-insights/when-employees-refuse-return-work-due-covid-19>
+
+23. [“Against Desperate Peril: High Performance in Emergency Preparation and Response. \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/8Gpe) <https://www.hks.harvard.edu/publications/against-desperate-peril-high-performance-emergency-preparation-and-response>
+
+24. [Beyond coronavirus: The path to the next normal. \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/Toxc) <https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/beyond-coronavirus-the-path-to-the-next-normal>
+
+25. [An Error Occurred Setting Your User Cookie. \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/O8s1) <https://guilfordjournals.com/doi/10.1521/psyc.2005.68.2.95?mobileUi=0>
+
+26. [Greenberg J, Pyszczynski T, Solomon S. The Causes and Consequences of a Need for Self-Esteem: A Terror Management Theory. Public Self and Private Self. Springer, New York, NY; 1986. pp. 189–212.](http://paperpile.com/b/Bju5pl/Rv8T)
+
+27. [McCanlies EC, Gu JK, Andrew ME, Violanti JM. The effect of social support, gratitude, resilience and satisfaction with life on depressive symptoms among police officers following Hurricane Katrina. Int J Soc Psychiatry. 2018;64: 63.](http://paperpile.com/b/Bju5pl/DAcI)
+
+28. [Lynn K. Harland, Wayne Harrison, James R. Jones, Roni Reiter-Palmon. Leadership Behaviors and Subordinate Resilience. In: University of Nebraska at Omaha DigitalCommons \[Internet]. 2005 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/yDU3) <https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1062&context=psychfacpub>
+
+29. [Martin Lang, Jan Kra´tky´, John H., Shaver, Danijela Jerotijevic, Dimitris Xygalatas. Effects of Anxiety on Spontaneous Ritualized Behavior. In: Cell \[Internet]. 20 Jul 2015 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/elWk) [https://www.cell.com/current-biology/pdf/S0960-9822(15)00652-1.pdf](https://www.cell.com/current-biology/pdf/S0960-9822%2815%2900652-1.pdf)
+
+30. [SAGE Journals: Your gateway to world-class research journals. In: SAGE Journals \[Internet]. \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/BZsO) <https://journals.sagepub.com/action/cookieAbsent>
+
+31. [Gartenberg, Claudine, Andrea Prat, and George Serafeim. Corporate Purpose and Financial Performance. \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/IqV4) <https://dash.harvard.edu/bitstream/handle/1/30903237/17-023.pdf?sequence=1>
+
+32. [Thompson C. What If Working From Home Goes on … Forever? 10 Jun 2020 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/ztuZ) <https://www.nytimes.com/interactive/2020/06/09/magazine/remote-work-covid.html>
+
+33. [The Heart of MBWA — Tom Peters. In: Tom Peters \[Internet]. 27 Feb 2013 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/pGpY) <https://tompeters.com/2013/02/the-heart-of-mbwa/>
+
+34. [How to Work for a Boss Who Lacks Self-Awareness. In: Harvard Business Review \[Internet]. 3 Apr 2018 \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/gONE) <https://hbr.org/2018/04/how-to-work-for-a-boss-who-lacks-self-awareness>
+
+35. [Charting the path to the next normal | McKinsey & Company. \[cited 14 Jul 2020]. Available:](http://paperpile.com/b/Bju5pl/dEnV) <https://www.mckinsey.com/featured-insights/coronavirus-leading-through-the-crisis/charting-the-path-to-the-next-normal>
+
+![](https://cdn-images-1.medium.com/max/1600/1*Kd3Z0peDLZ50uWKm-DInjQ.png)
