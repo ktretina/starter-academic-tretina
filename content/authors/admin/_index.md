@@ -12,7 +12,13 @@ organizations:
   - name: Meenta Inc.
     url: meenta.io
 education:
-  courses: []
+  courses:
+  - course: PhD in Molecular Microbiology and Immunology
+    institution: University of Maryland, Baltimore
+    year: 2016
+  - course: BSc Interdisciplinary Studies:Biotechnology
+    institution: Wheaton College
+    year: 2012
 email: kyletretina@gmail.com
 superuser: true
 user_groups:
