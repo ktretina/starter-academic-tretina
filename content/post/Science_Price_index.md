@@ -5,11 +5,11 @@ header:
   caption: ""
   image: ""
 date: 2020-11-17T03:17:57.019Z
-draft: true
-featured: true
+draft: false
+featured: false
 image:
   filename: yale.png
-  preview_only: true
+  preview_only: false
 ---
 Michael Price, a reporter for Science magazine, wrote a piece about the pressures that academic trainees are facing during the SARS-CoV-2 pandemic, and he used me as a reference for Yale University: <https://www.sciencemag.org/careers/2020/03/amid-coronavirus-shutdowns-some-grad-students-feel-pressured-report-their-labs>.
 
