@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: ktretina/starter-academic-tretina
   branch: master
 media_folder: 'static/media/'
 public_folder: 'media'
