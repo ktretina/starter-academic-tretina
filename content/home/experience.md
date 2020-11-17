@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   
   * Analysing high-throughput clinical genomics and SARS-CoV-2 datasets
   * Modelling COVID-19 infection risk to inform testing strategies
-  * Deploying machine-learning models to inform and improve public health strategies
+  * Deploying machine-learning models to inform / improve public health strategies
   """
 
 [[experience]]
