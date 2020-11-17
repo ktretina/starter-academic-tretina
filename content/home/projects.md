@@ -34,6 +34,10 @@ subtitle = ""
   #   tag = "Other"
   
   # [[content.filter_button]]
+  #   name = "Immunity"
+  #   tag = "Immunity"
+  
+  # [[content.filter_button]]
   #   name = "Other"
   #   tag = "Other"
 
