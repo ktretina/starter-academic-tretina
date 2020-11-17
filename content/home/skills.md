@@ -15,22 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "align-center"
+  icon_pack = "fas"
+  name = "Functional Genomics"
+  description = "(genome annotation and assembly, protein interaction predictions, gene phylogenetics/diversity/regulation/epidemiology)"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "bezier-curve"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Communication and Outreach"
+  description = "(data reduction, design, and presentation, philosophy of science, public engagement)"
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "figshare"
+  icon_pack = "ai"
+  name = "Enthusiasm"
+  description = "(joy in discovery, love of networking, passion for learning, fulfillment in service)"
 
 # Uncomment to use emoji icons.
 # [[feature]]
