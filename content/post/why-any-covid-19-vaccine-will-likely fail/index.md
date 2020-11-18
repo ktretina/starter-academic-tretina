@@ -2,7 +2,7 @@
 title: Why any COVID-19 vaccine will likely fail
 date: 2020-11-18T15:24:44.373Z
 draft: false
-featured: false
+featured: true
 authors: []
 image:
   filename: featured
